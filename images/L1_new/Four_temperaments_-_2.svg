@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="391.04044"
+   height="391.2363"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(-61.892584,-555.59565)"
+     id="layer1">
+    <g
+       transform="translate(2.0203051,-22.223356)"
+       id="g3267">
+      <path
+         d="M -57.142853,192.36218 A 91.428574,91.428574 0 1 1 -240,192.36218 A 91.428574,91.428574 0 1 1 -57.142853,192.36218 z"
+         transform="matrix(1.0433635,0,0,1.0433635,312.10697,474.33601)"
+         id="path2396"
+         style="opacity:1;fill:#fdecbd;fill-opacity:1;stroke:#000000;stroke-width:3.50300002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         d="M 121.1513,705.50579 C 123.93713,717.68745 138.88802,727.0454 157.07826,727.04541 C 175.26846,727.04541 190.24879,717.68746 193.03464,705.50579"
+         id="path3175"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.58138227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(1,0,0,-1,1.3848366,908.55295)"
+         id="g3179">
+        <path
+           d="M 104.0919,259.40422 L 128.75293,284.06524"
+           id="path2398"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.88263464;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <use
+           transform="matrix(0,1,-1,0,466.72858,156.74088)"
+           id="use3177"
+           x="0"
+           y="0"
+           width="744.09448"
+           height="1052.3622"
+           xlink:href="#path2398" />
+      </g>
+    </g>
+    <g
+       transform="translate(2.0812204,-22.223356)"
+       id="g3274">
+      <use
+         transform="translate(196.53814,0)"
+         id="use3227"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#path2396" />
+      <use
+         transform="matrix(1,0,0,-1,196.53814,1432.5512)"
+         id="use3231"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#path3175" />
+      <use
+         transform="matrix(1,0,0,-1,196.53814,1272.2079)"
+         id="use3255"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#g3179" />
+    </g>
+    <g
+       transform="translate(198.61936,-21.580763)"
+       id="g3279">
+      <use
+         transform="translate(0,196.15234)"
+         id="use3223"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#path2396" />
+      <use
+         transform="matrix(1,0,0,-1,-3.4399338e-6,1629.6934)"
+         id="use3229"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#path3175" />
+      <use
+         transform="translate(-3.9933809e-8,197.08127)"
+         id="use3257"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#g3179" />
+    </g>
+    <g
+       transform="translate(-194.51783,-21.580763)"
+       id="g3288">
+      <use
+         transform="translate(196.53814,196.15234)"
+         id="use3225"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#path2396" />
+      <use
+         transform="translate(196.53814,198.17264)"
+         id="use3233"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#path3175" />
+      <use
+         transform="matrix(1,0,0,-1,196.53814,1467.2891)"
+         id="use3259"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#g3179" />
+    </g>
+  </g>
+</svg>

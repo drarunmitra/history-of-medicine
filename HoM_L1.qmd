@@ -488,16 +488,6 @@ Public health link: **clean water, drains and site planning** are state works. R
 Sources: Frontinus, *De aquaeductu*; Vitruvius, *De architectura*, Book 1; Scobie 1986, Klio 68.
 :::
 
-## Question
-
-How does the Sushruta pupil's charge differ from the Hippocratic Oath? Think about **when** it is taken and **what it says about surgery**.
-
-. . .
-
-::: {.callout-tip appearance="simple"}
-Sushruta: at the start; surgeon and surgery are central. Hippocratic: later and shorter; the oath abstains from cutting for stone.
-:::
-
 ## Recap
 
 ![](images/timeline_L0.svg){fig-align="center" width="100%"}

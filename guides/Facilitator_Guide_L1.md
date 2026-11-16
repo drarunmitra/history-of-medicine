@@ -13,7 +13,7 @@ author: "Dr. Arun Mitra"
 | Length | 48 minutes planned (45 to 50) |
 | Room and kit | Projector, laptop, a way to show hands or a phone poll, a board or flip chart |
 | Slides | `HoM_L1.qmd` (source), `HoM_L1.html` (open this in a browser, full screen), `HoM_L1_typst.pdf` (backup if the HTML will not open) |
-| Deck size | 48 slides. Slide 1 is the title slide. Slides 2 to 48 follow the `##` headings in the file |
+| Deck size | 47 slides. Slide 1 is the title slide. Slides 2 to 47 follow the `##` headings in the file |
 | Prep time | About 90 minutes the first time. Allow 30 minutes more to check the flagged facts |
 
 # Before you teach
@@ -70,14 +70,13 @@ The deck marks some facts as uncertain. The research notes (`docs/research_L1.md
 | 16 to 21 | Indus Valley, with Question | 18 to 21 |
 | 21 to 27 | Vedic India, Sushruta, Arthashastra | 22 to 28 |
 | 27 to 32 | Greece | 29 to 32 |
-| 32 to 35 | Beyond Greece: China, Alexandria, Rome | 33 to 35 |
-| 35 to 37 | Question: charge and oath | 36 |
-| 37 to 38 | Recap | 37 |
-| 38 to 46 | Quiz, 8 questions | 38 to 46 |
-| 46 to 48 | Take-home and link to Lecture 2 | 47 |
+| 32 to 37 | Beyond Greece: China, Alexandria, Rome (time for discussion) | 33 to 35 |
+| 37 to 38 | Recap | 36 |
+| 38 to 46 | Quiz, 8 questions | 37 to 45 |
+| 46 to 48 | Take-home and link to Lecture 2 | 46 |
 | Total | | 48 minutes |
 
-Slide 48 (References) stays on screen as students leave. Do not teach it.
+Slide 47 (References) stays on screen as students leave. Do not teach it.
 
 # Slide-by-slide notes
 
@@ -218,11 +217,8 @@ Slide 48 (References) stays on screen as students leave. Do not teach it.
 |---|---|---|---|
 | 5 | Toe: who made it, why, walking or looks? | Open. The notes say the Greville Chester toe is made of linen, glue and plaster and does not bend, so it may be partly cosmetic or funerary. Wear patterns suggest it may have been used in life. A wooden Cairo toe is better evidence of a working prosthesis | Ask for a vote: walk or look. Then ask one student to defend each side for 20 seconds |
 | 21 | Which modern programme does Indus sanitation remind you of? | Swachh Bharat, Jal Jeevan Mission, WASH | Ask: "Where does your tap water come from?" |
-| 36 | How does the Sushruta charge differ from the Hippocratic Oath? Think about when it is taken and what it says about surgery | Sushruta: at the start; surgeon and surgery are central. Hippocratic: comes at the end of training; the oath abstains from cutting for stone | Ask: "Which comes first in your own training: the oath or the scalpel?" |
 
 **Wrong answers.** Say "Good guess. What would we need to see to know?" Then give the evidence. On slide 5 there is no wrong answer if the student gives a reason.
-
-**Watch out on slide 36.** The slide says the Hippocratic oath is "shorter". The notes do not compare lengths. Press "when" and "surgery" only. Some scholars see the Sushruta passage as teaching instruction, not an oath. Call it a "pupil's charge".
 
 # Optional activity (5 minutes)
 
@@ -241,7 +237,7 @@ Slide 48 (References) stays on screen as students leave. Do not teach it.
 
 **How to run it (about 8 minutes).**
 
-- Option A: hands up. Read each question aloud. Give 15 seconds. Ask for a show of hands for a, b, c, d. Say the answer and the one-line reason from this guide. Do not show slide 46 until the end.
+- Option A: hands up. Read each question aloud. Give 15 seconds. Ask for a show of hands for a, b, c, d. Say the answer and the one-line reason from this guide. Do not show slide 45 until the end.
 - Option B: phone poll. Type the question and options into a poll tool. Show the result bar. Then give the reason.
 - Keep to about 55 seconds per question. If time runs out, stop at Q6 and read out the answers to Q7 and Q8.
 
@@ -308,7 +304,7 @@ Say: "Today we saw people move from spirits and fate to natural causes, and from
 
 # Further reading
 
-Only sources cited in the deck or in `docs/research_L1.md`. Full details are on slide 48.
+Only sources cited in the deck or in `docs/research_L1.md`. Full details are on slide 47.
 
 - van Middendorp 2010 (Edwin Smith); King translation (Hammurabi); Jansen 1989 (Mohenjo-daro)
 - Wallace 1978 and Shaye 2021 (nose reconstruction); Bhishagratna 1907 (Sushruta); Olivelle 2013 (Arthashastra)

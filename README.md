@@ -9,6 +9,7 @@ Published at https://drarunmitra.github.io/history-of-medicine/
 | `HoM_L1.qmd` to `HoM_L4.qmd` | Quarto Reveal.js sources (HTML slides) |
 | `typst/` | Typst (touying, metropolis theme) sources, generated from the `.qmd` files |
 | `docs/` | The published site: HTML decks, Typst PDFs, earlier Beamer PDFs |
+| `guides/` | Facilitator guides (Markdown sources); built HTML and PDF are in `docs/guides/` |
 | `notes/gap_facts.md` | Facts added in the November 2026 review, with items marked **[verify]** |
 
 ## Rebuild
